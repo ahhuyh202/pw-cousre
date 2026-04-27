@@ -1,0 +1,7 @@
+local area: file1, file2, file3
+
+working area: file1, file2, file3
+
+staging area: file1
+
+repository: file1
