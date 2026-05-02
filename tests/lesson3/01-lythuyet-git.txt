@@ -1,0 +1,7 @@
+git commit --amend: sửa đổi commit gần nhất (thay đổi message, thêm/ bớt file, hoặc cả hai)
+
+git commit --amend -m "<message>": thay đổi commit message của commit gần nhất
+
+git restore --staged <file>: đưa file từ staging area về working area
+
+git reset HEAD~1: đưa 1 file từ repository area về working area
